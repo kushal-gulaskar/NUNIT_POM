@@ -19,5 +19,11 @@ namespace NUNIT.Tests
         {
             loginpage.LoginOrangeHRM();
         }
+
+        [Test]
+        public void LoginTest2()
+        {
+            loginpage.LoginOrangeHRM();
+        }
     }
 }
